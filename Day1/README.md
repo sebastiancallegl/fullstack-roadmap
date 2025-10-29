@@ -2,25 +2,25 @@
 ## 🚀 Introduction to the web 🌐
 
 1. Introduction
-    1.1. What are markup languages
+    - What are markup languages
         - What is a Markup Language (Article)
-    1.2. Frontend Development
+    - Frontend Development
         - What is front-end development?
 
 2. How the web works (Introduction to the Internet)
-    2.1 What is HTTP
+    - What is HTTP
         - What is HTTP?
         - How HTTPS works
-    2.2 Domain name
+    - Domain name
         - What is a Domain Name?
         - What is a domain name? | Domain name vs. URL
-    2.3 DNS
+    - DNS
         - How DNS works (comic)
-    2.4 Browsers
+    - Browsers
         - Populating the Page: How Browsers Work
-    2.5 Hosting
+    -  Hosting
         - What is Web Hosting?
-    2.6 What is SEO?
+    -  What is SEO?
         - What is SEO?
         - GEO (Generative Engine Optimization) vs SEO (Search Engine Optimization): What’s The Difference?
 
