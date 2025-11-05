@@ -3,31 +3,31 @@
 
 1. Textual Tags
     - h1 to h6
-        - <h1>–<h6>: The HTML Section Heading elements
+        - h1–h6: The HTML Section Heading elements
     - title
-        - <title>: The Document Title element
+        - title: The Document Title element
     - p
-        - <p>: The Paragraph element
+        - p: The Paragraph element
     - hr
-        - <hr>: The Thematic Break (Horizontal Rule) element
+        - hr: The Thematic Break (Horizontal Rule) element
     - br
-        - <br>: The Line Break element
+        - br: The Line Break element
     - b / strong
-        - <b>: The Bring Attention To element
-        - <strong>: The Strong Importance element
+        - b: The Bring Attention To element
+        - strong: The Strong Importance element
     - pre
-        - <pre>: The Preformatted Text element
+        - pre: The Preformatted Text element
     - i / em
-        - <i>: The Idiomatic Text element
-        - <em>: The Emphasis element
+        - i: The Idiomatic Text element
+        - em: The Emphasis element
     - mark
-        - <mark>: The Mark Text element
+        - mark: The Mark Text element
     - sub
-        - <sub>: The Subscript element
+        - sub: The Subscript element
     - sup
-        - <sup>: The Superscript element
+        - sup: The Superscript element
     - links
-        - <a>: The Anchor element
+        - a: The Anchor element
 
 ## Task
 
