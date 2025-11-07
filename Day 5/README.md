@@ -1,4 +1,4 @@
-# DAY 1
+# DAY 5
 ## Table is what I'm going to give you ... day
 
 1. lists and types
