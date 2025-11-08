@@ -1,0 +1,89 @@
+{
+  "Lunes": {
+    "Cita abuela": [
+      "llegar al lugar",
+      "sacar ficho de confirmacion",
+      "esperar turno",
+      "pedir cita de revision"
+    ],
+    "Reunion de trabajo": [
+      "revisar agenda",
+      "preparar documentos",
+      "conectarse a la reunion",
+      "tomar notas importantes"
+    ],
+    "Clase de idiomas": [
+      "repasar vocabulario anterior",
+      "practicar pronunciacion",
+      "hacer ejercicios de gramatica",
+      "conversar con compañeros"
+    ]
+  },
+  "Martes": {
+    "Presentacion de proyecto": [
+      "lugar: one plaza",
+      "publico: gerentes de areas",
+      "proyecto: ai pods"
+    ],
+    "Compras del supermercado": [
+      "frutas y verduras",
+      "productos de limpieza",
+      "articulos de aseo personal"
+    ],
+    "Llamada con cliente": [
+      "revisar historial del cliente",
+      "preparar propuesta comercial",
+      "discutir requerimientos"
+    ]
+  },
+  "Miércoles": {
+    "realizar tareas del hogar": ["sacar la basura", "barrer", "trapear"],
+    "Estudiar programacion": [
+      "repasar conceptos de JavaScript",
+      "hacer ejercicios practicos",
+      "revisar documentacion"
+    ],
+    "Actividad fisica": [
+      "trotar en el parque",
+      "ejercicios de estiramiento",
+      "hidratarse adecuadamente"
+    ]
+  },
+  "Jueves": {
+    "Gimnasio": [
+      "Calentamiento",
+      "Press Inclinado",
+      "Press Plano",
+      "Press Militar",
+      "Aperturas con Mancuernas",
+      "Extension de Triceps"
+    ],
+    "Cita medica": [
+      "Llegar 15 minutos antes",
+      "Entregar documentos",
+      "Consulta con el doctor",
+      "Recoger medicamentos",
+      "Agendar proxima cita"
+    ],
+    "Preparar almuerzo": [
+      "Planificar menu",
+      "Revisar ingredientes",
+      "Cocinar plato principal",
+      "Preparar ensalada",
+      "Servir la comida"
+    ]
+  },
+  "Viernes": {
+    "Revision del vehiculo": ["Llantas", "Frenos", "Espejos"],
+    "Mantenimiento del hogar": [
+      "Revisar grifos",
+      "Limpiar filtros",
+      "Organizar herramientas"
+    ],
+    "Tiempo personal": [
+      "Leer un libro",
+      "Escuchar musica",
+      "Meditar o relajarse"
+    ]
+  }
+}
