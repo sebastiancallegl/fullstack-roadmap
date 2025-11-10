@@ -39,13 +39,9 @@ Create an HTML file that includes a form with the following specifications:
 
     - Birthday:
 
-        - Input type: Date
-
         - Validation: Only valid dates allowed
 
     - Email:
-
-        - Input type: Email
 
         - Validation: Must be a valid email format
 
