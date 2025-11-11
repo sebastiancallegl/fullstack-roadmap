@@ -29,3 +29,7 @@
 ## Task
 
 use as a template the file "tasks.html" in this folder and create all the needed logic to replicate the behavior showed in the following video.
+
+
+https://github.com/user-attachments/assets/33ea6dfe-fcf8-49cf-b416-03940a9b483d
+
