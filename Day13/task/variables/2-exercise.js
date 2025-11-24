@@ -3,21 +3,21 @@
  */
 let number1 = 4, number2 = 3;
 
-// Now print the sum of them. (it should be 9)
+// Now print the sum of them. (it should be 7)
 
 
 // Now print the number 1 but simultaneously adds 1 to the number1 on the same line where you print it.
 
 
 // ******************* DONT MODIFY - START ******************* 
-console.log(number1); // this should print 3.
+console.log(number1); // this should print 5.
 // ******************* DONT MODIFY - START ******************* 
 
 // Create a new variable "number3" use this new variable to store the multiplication between number1 and number2
 
 
 // ******************* DONT MODIFY - START ******************* 
-console.log(number3); // this should be 9.
+console.log(number3); // this should be 15.
 // ******************* DONT MODIFY - START ******************* 
 
 /**
@@ -30,5 +30,5 @@ console.log(number3); // this should be 9.
 
 
 // ******************* DONT MODIFY - START ******************* 
-console.log(numberValidation); // this should print "invalidNumber"
+console.log(numberValidation); // this should print "validNumber"
 // ******************* DONT MODIFY - END ******************* 
